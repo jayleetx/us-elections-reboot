@@ -1,17 +1,21 @@
----
-title: "README"
-author: "Will Ashfield"
-date: "May 9, 2017"
-output: github_document
----
-
 # us-elections-reboot 
 
-## Authors 
+## Contributors  
 
-Will Ashfield 
+*Will Ashfield 
+*Kammy Chiu 
+*Rik Ghosh
 
-Kammy Chiu 
+## Objectives 
 
-Rik Ghosh
 
+
+
+
+[McDonald’s Website](http://www.electproject.org/.)
+
+[McDonald's GitHub](https://github.com/mcdisc/UF-Election-Sciences)
+
+## Implementation
+
+![Data Flow](http://r4ds.had.co.nz/diagrams/data-science.png)
