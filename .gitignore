@@ -8,3 +8,4 @@ us_elections_reboot.Rproj
 ncVis.Rdata
 tidy2_nc.Rdata
 SBE_PRECINCTS_20170502
+.gitignore
